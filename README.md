@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/msusami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/msusami" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/msusami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msusami" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sam_ud.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sam_ud.n" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/coun.terculturist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/coun.terculturist/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@sam_ud.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@sam_ud.n" height="30" width="40" /></a>
+<a href="https://instagram.com/coun.terculturist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coun.terculturist" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sam_ud.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sam_ud.n" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/watchsykb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="watchsykb" height="30" width="40" /></a>
 <a href="https://discord.gg/743004410937868358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="743004410937868358" height="30" width="40" /></a>
 </p>
