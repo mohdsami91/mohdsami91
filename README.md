@@ -17,11 +17,11 @@
 
 - 💬 Ask me about **PC building & benchmarking, Raspberry Pi hardware projects, AI integration (OpenAI, ElevenLabs, LLaMA), cybersecurity tools, and game development in Unreal Engine 5**
 
-- 📫 How to reach me **msusami9911@gmail.com**
+- 📫 How to reach me: **msusami9911@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/wrpcdfgwvvcb#ea84db](https://www.overleaf.com/read/wrpcdfgwvvcb#ea84db)
+- 📄 Know about my experiences: [https://www.overleaf.com/read/wrpcdfgwvvcb#ea84db](https://www.overleaf.com/read/wrpcdfgwvvcb#ea84db)
 
-- ⚡ Fun fact **You know what? I built a powerful rig that even Chatgpt asked if it could borrow some of my GPU power and time.**
+- ⚡ Fun fact: **You know what? I built a powerful rig that even Chatgpt asked if it could borrow some of my GPU power and time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
