@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Samiuddin</h1>
 <h3 align="center">A multidisciplinary developer passionate about AI, cybersecurity, PC hardware, and games</h3>
+<img align="right" alt="Programming" width="400" src="![uzs5TIiACM](https://github.com/user-attachments/assets/a85ddac9-8150-4f07-a557-6b1b18d17a04)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdsami91&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsami91" /> </p>
 
