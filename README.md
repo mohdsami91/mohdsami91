@@ -1,3 +1,4 @@
+![Animated Banner](uzs5TIiACM.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Samiuddin</h1>
 <h3 align="center">A multidisciplinary developer passionate about AI, cybersecurity, PC hardware, and games</h3>
 <img align="right" alt="Programming" width="400" src="![Animated Banner](uzs5TIiACM.gif)">
