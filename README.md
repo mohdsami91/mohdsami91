@@ -1,5 +1,5 @@
 ![Animated Banner](type.gif)
-<h1 align="center">Hi 👋, I'm Mohammed Samiuddin</h1>
+<h1 align="center">Hi 👋, Mohammed Samiuddin here </h1>
 <h3 align="center">A multidisciplinary developer passionate about AI, cybersecurity, PC hardware, and games</h3>
 <img align="left" alt="Programming" width="400" src="uzs5TIiACM.gif">
 <img align="right" alt="Programming1" width="350" src="q3nHUvpYHl (1).gif">
