@@ -1,4 +1,4 @@
-![Animated Banner](type.gif)
+# To diagnose and check ip![Animated Banner](type.gif)
 <h1 align="center">Hi 👋, Mohammed Samiuddin here </h1>
 <h3 align="center">A multidisciplinary developer passionate about AI, cybersecurity, PC hardware, and games</h3>
 <img align="left" alt="Programming" width="400" src="uzs5TIiACM.gif">
@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdsami91&show_icons=true&locale=en" alt="mohdsami91" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsami91&" alt="mohdsami91" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsami91&" alt="mohdsami91" /></p>
