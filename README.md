@@ -45,5 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdsami91&show_icons=true&locale=en" alt="mohdsami91" /></p>
 
 <div align="center">
-  <img src="[your-image-url](https://github-readme-streak-stats.herokuapp.com/?user=mohdsami91&)" alt="mohdsami91"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsami91&" alt="mohdsami91"/>
 </div>
