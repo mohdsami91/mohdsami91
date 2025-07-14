@@ -1,4 +1,4 @@
-# To diagnose and check ip![Animated Banner](type.gif)
+![Animated Banner](type.gif)
 <h1 align="center">Hi 👋, Mohammed Samiuddin here </h1>
 <h3 align="center">A multidisciplinary developer passionate about AI, cybersecurity, PC hardware, and games</h3>
 <img align="left" alt="Programming" width="400" src="uzs5TIiACM.gif">
