@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Voice-Interactive Robot (STT + TTS) on Raspberry Pi using OpenAI + ElevenLabs, LLaMA Model Integration on Edge Device (Raspberry Pi 5), Browser Extension for Daily Productivity, PC Building Guide & Automation Toolkit**
+- 🔭 Working on **Voice-Interactive bots using OpenAI + ElevenLabs, LLaMA Model Integration, Browser Extension**
 
-- 🌱 I’m currently learning **LangChain, API integration, edge ML deployment, Whisper STT tuning, PC part compatibility & benchmarking, Unreal Engine Blueprints, and YOLOv8 object detection**
+- 🌱 Currently learning **LangChain, API integration, edge ML deployment, Whisper STT tuning**
 
-- 👯 I’m looking to collaborate on **Cybersecurity utilities (e.g., pentest tools, automation scripts), Indie games (Unreal Engine), Open-source AI/ML projects (RAG, ASR bots, etc.) and Custom PC building automation or consulting tools**
+- 👯 Looking to collaborate on **Cybersecurity utilities, Indie games, AI/ML projects, PC building automation or consulting tools**
 
 - 🤝 I’m looking for help with **Raspberry Pi ML model optimization & performance tuning, Building affordable low-power AI devices and Hosting LLMs locally (LLaMA, Mistral)**
 
-- 💬 Ask me about **PC building & benchmarking, Raspberry Pi hardware projects, AI integration (OpenAI, ElevenLabs, LLaMA), cybersecurity tools, and game development in Unreal Engine 5**
+- 💬 Ask me about **Raspberry Pi hardware development, AI integration (OpenAI, ElevenLabs, LLaMA), and game development in Unreal Engine 5**
 
 - 📫 How to reach me: **msusami9911@gmail.com**
 
