@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Raspberry Pi ML model optimization & performance tuning, Building affordable low-power AI devices and Hosting LLMs locally (LLaMA, Mistral)**
 
-- 💬 Ask me about **Raspberry Pi hardware development, AI integration (OpenAI, ElevenLabs, LLaMA), and game development in Unreal Engine 5**
+- 💬 Ask me about **Raspberry Pi hardware development, AI integration (OpenAI, ElevenLabs, LLaMA), and game development**
 
 - 📫 How to reach me: **msusami9911@gmail.com**
 
