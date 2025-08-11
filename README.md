@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: **msusami9911@gmail.com**
 
-- 📄 Know about my experiences: [https://www.overleaf.com/read/wrpcdfgwvvcb#ea84db](https://www.overleaf.com/read/wrpcdfgwvvcb#ea84db)
+- 📄 Know about my experiences: [https://www.overleaf.com/read/wnckrtqpxqqn#a23329](https://www.overleaf.com/read/wnckrtqpxqqn#a23329)
 
 - ⚡ Fun fact: **You know what? I built a powerful rig that even Chatgpt asked if it could borrow some of my GPU power and time.**
 
