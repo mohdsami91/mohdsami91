@@ -1,6 +1,6 @@
 ![Animated Banner](type.gif)
 <h1 align="center">Hi 👋, Mohammed Samiuddin here </h1>
-<h3 align="center">A multidisciplinary developer passionate about AI, cybersecurity, PC hardware, and games</h3>
+<h3 align="center">A multidisciplinary developer passionate about AI, Robotics, Cybersecurity and PC hardware</h3>
 <img align="left" alt="Programming" width="400" src="uzs5TIiACM.gif">
 <img align="right" alt="Programming1" width="350" src="q3nHUvpYHl (1).gif">
 
@@ -26,7 +26,7 @@
 
 - 🤝 I’m looking for help with **Raspberry Pi ML model optimization & performance tuning, Building affordable low-power AI devices and Hosting LLMs locally (LLaMA, Mistral)**
 
-- 💬 Ask me about **Raspberry Pi hardware development, AI integration (OpenAI, ElevenLabs, LLaMA), and game development**
+- 💬 Ask me about **Raspberry Pi hardware development, AI integration (OpenAI, ElevenLabs, LLaMA).**
 
 - 📫 How to reach me: **msusami9911@gmail.com**
 
